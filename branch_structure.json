@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "refactor/move-mock-data-to-mocks",
+    "rhem-audioblocks"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "refactor/move-mock-data-to-mocks": "main",
+    "rhem-audioblocks": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "refactor/move-mock-data-to-mocks",
+    "rhem-audioblocks"
+  ]
+}
